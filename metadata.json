@@ -1,0 +1,6 @@
+{
+  "name": "Employee Attendance Management",
+  "description": "An employee management and attendance tracking system with individual employee logins, check-in, profile, and an administrative panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
