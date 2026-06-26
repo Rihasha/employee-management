@@ -2,7 +2,7 @@ Employee Attendance Management System
 
 Overview
 
-A web-based Employee Attendance Management System developed using FastAPI, React and MySQL.
+A web-based Employee Attendance Management System developed using React.js, Node.js, Express.js and MySQL.
 
 Features
 
@@ -15,29 +15,34 @@ Features
 Technology Stack
 
 - Frontend: React.js
-- Backend: FastAPI
+- Backend: Node.js, Express.js
 - Database: MySQL
-- ORM: SQLAlchemy
+
+Live Demo
+
+https://employee-management-25s4.onrender.com/
 
 Setup Instructions
 
-Backend
+Clone Repository
 
-pip install -r requirements.txt
+git clone https://github.com/Rihasha/employee-management.git
 
-uvicorn main:app --reload
+cd employee-management
 
-Frontend
+Install Dependencies
 
 npm install
+
+Run Application
 
 npm run dev
 
 Database Setup
 
 1. Create MySQL database
-2. Import employee_attendance_db.sql
-3. Update database credentials
+2. Import ai_studio_code.sql
+3. Update database credentials if required
 
 Author
 
